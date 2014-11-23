@@ -1,0 +1,121 @@
+<style type="text/css">
+
+/**********************
+GENERAL
+**********************/
+
+#header {
+    text-align:center;
+}
+
+#header h1 {
+    padding:19px 5px 5px 23px;
+    margin:0;
+    float:left;
+    font-size:1.6em;
+    font-weight: 300;
+    max-width:100%;
+}
+
+h2 {
+    padding: 5px 0 5px 15px;
+    margin:0;
+}
+
+p {
+    margin:0;
+}
+
+body {
+    overflow: hidden;
+}
+
+/**********************
+NAVIGATION
+**********************/
+
+nav li {
+    display:inline-block;
+    padding: 5px 5px;
+    height:100%;
+    margin:0;
+}
+
+nav a {
+    text-decoration: none;
+    text-transform:uppercase;
+    font-size:1.15em;
+    font-weight:800;
+    height:100%;
+    width:100%;
+    margin:0;
+    padding:10px 5px;
+    font-size: 0.9em;
+}
+
+nav ul {
+    padding: 5px 0 5px 10px;
+    margin:0;
+    margin-top:-5px;
+    width:100%;
+}
+
+/**********************
+SOCIAL BUTTONS
+**********************/
+
+#social-buttons {
+    float:right;
+}
+
+#social-buttons a {
+    text-decoration: none;
+}
+
+/**********************
+CONTENT SECTION
+**********************/
+
+#content {
+    margin:9px 5px 5px 15px;
+}
+
+
+/**********************
+COLORS
+**********************/ 
+
+h1, h2 {
+    color:#8d8f8f;
+}
+
+nav a {
+    color:white;
+    margin:0;
+    padding:10px 5px;
+}
+
+nav a:hover, nav a.selected {
+    background-color:#5B5C5C;
+}
+
+nav ul {
+    background-color:#A9ABAB;
+}
+
+#header {
+    background-color:purple;
+}
+
+/**********************
+IMAGES
+**********************/
+
+.header-image {
+    max-width:100%;
+    margin:0;
+    padding:0;
+}
+
+
+</style>
