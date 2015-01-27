@@ -1,1 +1,1 @@
-<php echo "This is the footer." ?>
+<?php echo "This is the footer." ?>
