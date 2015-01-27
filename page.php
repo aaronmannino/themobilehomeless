@@ -19,6 +19,8 @@
         <div id="content">
         <?php echo $page_content; ?>
         </div>
+
+        <?php include "footer.php"; ?>   
         
     </body>
 </html>
