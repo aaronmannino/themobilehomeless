@@ -16,7 +16,7 @@
 
         </div>
         
-        <img class="header-image" src="img/dunedin-brewery-1-1280x400.jpg" alt="The Mobile Homeless Live at Dunedin Brewery">
+        <img class="header-image" src="img/the-mobile-homeless-black-background-0115.jpg" alt="The Mobile Homeless Live at Dunedin Brewery">
         <nav>
             <ul>
                 <li><a <?php IF ($page_name=="Home") {echo 'class="selected" ';} ?> href="index.php">Home</a></li>
