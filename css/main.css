@@ -44,8 +44,6 @@ nav li {
 
 nav a {
     text-decoration: none;
-    text-transform:uppercase;
-    font-weight:800;
     height:100%;
     width:100%;
     padding:10px 5px;
