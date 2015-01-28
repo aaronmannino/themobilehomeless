@@ -12,15 +12,16 @@
     </head>
     
     <body>
-            <?php include "navigation.php"; ?>    
-
-        <h2><?php echo $page_name; ?></h2>
+        
+        <?php include "navigation.php"; ?>    
         
         <div id="content">
-        <?php echo $page_content; ?>
+            <h2><?php echo $page_name; ?></h2>
+            <?php echo $page_content; ?>
         </div>
 
         <?php include "footer.php"; ?>   
         
     </body>
+    
 </html>
